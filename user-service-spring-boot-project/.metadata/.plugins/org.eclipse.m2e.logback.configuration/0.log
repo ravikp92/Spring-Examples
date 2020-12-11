@@ -1,0 +1,36 @@
+2020-11-20 09:16:08,699 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-11-20 09:17:14,822 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test:testproject:0.0.1-SNAPSHOT @ C:\Users\ravip\eclipse-workspace\testproject\pom.xml.
+2020-11-20 09:17:19,399 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ravi.application.MyApplication:MyApplicationWebsite:0.0.1-SNAPSHOT @ C:\Users\ravip\eclipse-workspace\MyApplicationWebsite\pom.xml.
+2020-11-20 09:17:21,416 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.objenesis:objenesis:jar:2.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-11-20 09:17:27,702 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 09:17:27,709 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-20 09:17:27,765 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-20 09:17:27,770 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 09:17:27,770 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\MyApplicationWebsite\src\test\resources
+2020-11-20 09:17:29,228 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test:testproject:0.0.1-SNAPSHOT @ C:\Users\ravip\eclipse-workspace\testproject\pom.xml.
+2020-11-20 09:17:30,183 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test:testproject:0.0.1-SNAPSHOT @ C:\Users\ravip\eclipse-workspace\testproject\pom.xml.
+2020-11-20 09:17:32,124 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ravi.application.MyApplication:MyApplicationWebsite:0.0.1-SNAPSHOT @ C:\Users\ravip\eclipse-workspace\MyApplicationWebsite\pom.xml.
+2020-11-20 09:17:32,740 [Worker-6: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.objenesis:objenesis:jar:2.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-11-20 09:17:33,410 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-20 09:17:33,424 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-20 09:17:33,428 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-20 09:17:33,439 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-20 09:17:37,582 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.objenesis:objenesis:jar:2.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-11-20 09:17:37,909 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test:testproject:0.0.1-SNAPSHOT @ C:\Users\ravip\eclipse-workspace\testproject\pom.xml.
+2020-11-20 09:17:38,975 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 09:17:38,987 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-20 09:17:39,020 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-20 09:17:39,628 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 09:17:39,629 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\MyApplicationWebsite\src\test\resources
+2020-11-20 09:17:39,633 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ravi.application.MyApplication:MyApplicationWebsite:0.0.1-SNAPSHOT @ C:\Users\ravip\eclipse-workspace\MyApplicationWebsite\pom.xml.
+2020-11-20 09:17:40,233 [Worker-5: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.objenesis:objenesis:jar:2.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-11-20 09:17:43,121 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.objenesis:objenesis:jar:2.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-11-20 09:17:43,280 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 09:17:43,281 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-20 09:17:43,289 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-20 09:17:43,292 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 09:17:43,292 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\MyApplicationWebsite\src\test\resources
+2020-11-20 09:17:43,829 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-20 09:17:43,835 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-20 09:17:43,837 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-20 09:17:43,842 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
